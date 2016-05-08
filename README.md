@@ -14,6 +14,3 @@ Left part of the window have ludo board and tokens and right part of the window 
 4. Repeat same for next player.<br />
 
 
-
-#### Note
-To run this code put ludo_game.py and images in same directory.
